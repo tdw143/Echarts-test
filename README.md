@@ -1,6 +1,6 @@
 # Echarts-test
 
-#适配屏幕自动缩放
+# 适配屏幕自动缩放
 设计稿是1920px
 flexible.js 把屏幕分为 24 等份
 cssrem 插件的基准值是 80px
